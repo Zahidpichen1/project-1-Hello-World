@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/bdd8d482-b975-43a3-a80e-7473352d5de4)# Hello World
-
 ## Description
 Learning git & GitHub basic commands index.html file
 
