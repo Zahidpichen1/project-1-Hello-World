@@ -1,4 +1,4 @@
-# Hello World
+![image](https://github.com/user-attachments/assets/bdd8d482-b975-43a3-a80e-7473352d5de4)# Hello World
 
 ## Description
 Learning git & GitHub basic commands index.html file
@@ -17,3 +17,7 @@ Learning git & GitHub basic commands index.html file
 6) `git commit -m "<message>"`, it commits whatever is there in the track
 7) `git remote add origin <GitHub repository link>`, builds connection between git and github
 8) `git push --set-upstream origin master`, sends all the files from git to github.
+
+### Output
+
+  ![image](https://github.com/user-attachments/assets/a2088b45-c4c3-4ff7-96e2-52158f5fba0d)
