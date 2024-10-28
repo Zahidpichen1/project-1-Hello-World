@@ -1,5 +1,5 @@
 ## Description
-Learning git & GitHub basic commands index.html file
+Learning git & GitHub basic commands
 
 ## Steps
 
